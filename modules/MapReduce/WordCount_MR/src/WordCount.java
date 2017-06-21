@@ -1,5 +1,5 @@
 /**
- * This is simple word count program. I got this program online. 
+ * This is simple word count program. I got this program online.
  */
 import java.io.IOException;
 import java.util.StringTokenizer;
