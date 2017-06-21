@@ -1,5 +1,5 @@
 /**
- * Created by geet on 21/6/17.
+ * This is simple word count program. I got this program online. 
  */
 import java.io.IOException;
 import java.util.StringTokenizer;
